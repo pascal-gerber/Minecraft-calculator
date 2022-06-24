@@ -1,0 +1,1 @@
+Xcopy /S /E main-calculator\*.* C:\Users\%Username%\AppData\Roaming\.minecraft\saves
